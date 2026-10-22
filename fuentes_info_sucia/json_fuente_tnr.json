@@ -1,0 +1,1002 @@
+[
+    {
+        "log_id": "LOG-991",
+        "user_rut": "168750-5",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "web",
+        "timestamp": "01/10/2026",
+        "store_id": "105",
+        "units": 1,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-992",
+        "user_rut": "114130-1",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "APP",
+        "timestamp": "2026.10.01",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-993",
+        "user_rut": "153384-2",
+        "item_sku": "SKU-003",
+        "sale_channel": "APP",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "102",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-994",
+        "user_rut": "187127-8",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "",
+        "timestamp": "2026.10.01",
+        "store_id": "104",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-995",
+        "user_rut": "130479-5",
+        "item_sku": "SKU-002",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "01/10/2026",
+        "store_id": "104",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-996",
+        "user_rut": "135833-K",
+        "item_sku": "SKU-003",
+        "sale_channel": "APP",
+        "timestamp": "2026.10.01",
+        "store_id": "None",
+        "units": 1,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-997",
+        "user_rut": "121704-6",
+        "item_sku": "sku-002",
+        "sale_channel": "call-center",
+        "timestamp": "2026.10.01",
+        "store_id": "105",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-998",
+        "user_rut": "122489-4",
+        "item_sku": "SKU-001",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "N/A",
+        "units": 1,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-999",
+        "user_rut": "189982-5",
+        "item_sku": "SKU-003",
+        "sale_channel": "app_movil",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9910",
+        "user_rut": "153384-2",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "app_movil",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "103",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9911",
+        "user_rut": "187127-8",
+        "item_sku": "sku_1",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "None",
+        "units": 1,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9912",
+        "user_rut": "137338-8",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "APP",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9913",
+        "user_rut": "196858-8",
+        "item_sku": "TELEFONO_X",
+        "sale_channel": "APP",
+        "timestamp": "01-10-2026",
+        "store_id": "None",
+        "units": 2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9914",
+        "user_rut": "121704-6",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "101",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9915",
+        "user_rut": "183296-1",
+        "item_sku": "PROD-A",
+        "sale_channel": "call-center",
+        "timestamp": "2026/10/01",
+        "store_id": "106",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9916",
+        "user_rut": "123194-6",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "app_movil",
+        "timestamp": "01-10-2026",
+        "store_id": "103",
+        "units": 4,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9917",
+        "user_rut": "168750-5",
+        "item_sku": "sku_1",
+        "sale_channel": "Call Center",
+        "timestamp": "01/10/2026",
+        "store_id": "106",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9918",
+        "user_rut": "121704-6",
+        "item_sku": "SKU-003",
+        "sale_channel": "APP",
+        "timestamp": "2026/10/01",
+        "store_id": "102",
+        "units": -2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9919",
+        "user_rut": "158180-8",
+        "item_sku": "SKU-003",
+        "sale_channel": "",
+        "timestamp": "01-10-2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9920",
+        "user_rut": "199799-K",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "APP",
+        "timestamp": "2026.10.01",
+        "store_id": "103",
+        "units": -2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9921",
+        "user_rut": "130814-6",
+        "item_sku": "sku_1",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026-10-01",
+        "store_id": "103",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9922",
+        "user_rut": "187127-8",
+        "item_sku": "PROD-A",
+        "sale_channel": null,
+        "timestamp": "2026/10/01",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9923",
+        "user_rut": "137881-5",
+        "item_sku": "SKU-003",
+        "sale_channel": "call-center",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "Sin Asignar",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9924",
+        "user_rut": "183296-1",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01",
+        "store_id": "103",
+        "units": -2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9925",
+        "user_rut": "153384-2",
+        "item_sku": "sku_1",
+        "sale_channel": null,
+        "timestamp": "01-10-2026",
+        "store_id": "Sin Asignar",
+        "units": 2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9926",
+        "user_rut": "127854-1",
+        "item_sku": "SKU-001",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "106",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9927",
+        "user_rut": "196858-8",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "APP",
+        "timestamp": "2026-10-01",
+        "store_id": "103",
+        "units": -2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9928",
+        "user_rut": "158180-8",
+        "item_sku": "sku_1",
+        "sale_channel": "",
+        "timestamp": "2026/10/01",
+        "store_id": "104",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9929",
+        "user_rut": "191214-0",
+        "item_sku": "sku_1",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026-10-01",
+        "store_id": "106",
+        "units": -100,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9930",
+        "user_rut": "168649-1",
+        "item_sku": "SKU-001",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9931",
+        "user_rut": "114130-1",
+        "item_sku": "SKU-003",
+        "sale_channel": "Call Center",
+        "timestamp": "2026-10-01",
+        "store_id": "102",
+        "units": 4,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9932",
+        "user_rut": "153384-2",
+        "item_sku": "SKU-002",
+        "sale_channel": "app_movil",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9933",
+        "user_rut": "183296-1",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "APP",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9934",
+        "user_rut": "127854-1",
+        "item_sku": "SKU-002",
+        "sale_channel": "APP",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "N/A",
+        "units": -2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9935",
+        "user_rut": "115777-3",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "call-center",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9936",
+        "user_rut": "158180-8",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "call-center",
+        "timestamp": "2026/10/01",
+        "store_id": "103",
+        "units": -2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9937",
+        "user_rut": "199799-K",
+        "item_sku": "tel-x",
+        "sale_channel": "call-center",
+        "timestamp": "2026-10-01",
+        "store_id": "102",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9938",
+        "user_rut": "183296-1",
+        "item_sku": "PROD-A",
+        "sale_channel": "APP",
+        "timestamp": "2026.10.01",
+        "store_id": "None",
+        "units": 4,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9939",
+        "user_rut": "187127-8",
+        "item_sku": "sku_1",
+        "sale_channel": "call-center",
+        "timestamp": "2026/10/01",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9940",
+        "user_rut": "122467-5",
+        "item_sku": "tel-x",
+        "sale_channel": "Call Center",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9941",
+        "user_rut": "130814-6",
+        "item_sku": "TELEFONO_X",
+        "sale_channel": "",
+        "timestamp": "2026.10.01",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9942",
+        "user_rut": "187127-8",
+        "item_sku": "sku-002",
+        "sale_channel": "app_movil",
+        "timestamp": "2026.10.01",
+        "store_id": "101",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9943",
+        "user_rut": "168750-5",
+        "item_sku": "SKU-003",
+        "sale_channel": "",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9944",
+        "user_rut": "145928-0",
+        "item_sku": "SKU-002",
+        "sale_channel": null,
+        "timestamp": "2026.10.01",
+        "store_id": "105",
+        "units": 2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9945",
+        "user_rut": "183296-1",
+        "item_sku": "TELEFONO_X",
+        "sale_channel": "",
+        "timestamp": "01/10/2026",
+        "store_id": "N/A",
+        "units": -100,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9946",
+        "user_rut": "115777-3",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "Call Center",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9947",
+        "user_rut": "121704-6",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "105",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9948",
+        "user_rut": "191214-0",
+        "item_sku": "PROD-A",
+        "sale_channel": "Call Center",
+        "timestamp": "2026-10-01",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9949",
+        "user_rut": "127854-1",
+        "item_sku": "tel-x",
+        "sale_channel": "app_movil",
+        "timestamp": "2026.10.01",
+        "store_id": "102",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9950",
+        "user_rut": "138559-9",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": null,
+        "timestamp": "2026/10/01",
+        "store_id": "102",
+        "units": 1,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9951",
+        "user_rut": "187127-8",
+        "item_sku": "sku_1",
+        "sale_channel": "Call Center",
+        "timestamp": "2026/10/01",
+        "store_id": "105",
+        "units": 1,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9952",
+        "user_rut": "136786-4",
+        "item_sku": "SKU-001",
+        "sale_channel": "Web",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "103",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9953",
+        "user_rut": "153384-2",
+        "item_sku": "PROD-A",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026.10.01",
+        "store_id": "106",
+        "units": 1,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9954",
+        "user_rut": "114130-1",
+        "item_sku": "sku_1",
+        "sale_channel": "",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9955",
+        "user_rut": "187127-8",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "APP",
+        "timestamp": "01/10/2026",
+        "store_id": "101",
+        "units": 4,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9956",
+        "user_rut": "121704-6",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "2026/10/01",
+        "store_id": "104",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9957",
+        "user_rut": "147949-K",
+        "item_sku": "sku-002",
+        "sale_channel": "APP",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9958",
+        "user_rut": "196858-8",
+        "item_sku": "TELEFONO_X",
+        "sale_channel": "Call Center",
+        "timestamp": "2026.10.01",
+        "store_id": "106",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9959",
+        "user_rut": "191214-0",
+        "item_sku": "sku-002",
+        "sale_channel": "APP",
+        "timestamp": "2026/10/01",
+        "store_id": "101",
+        "units": -2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9960",
+        "user_rut": "168750-5",
+        "item_sku": "tel-x",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026.10.01",
+        "store_id": "Sin Asignar",
+        "units": 1,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9961",
+        "user_rut": "189982-5",
+        "item_sku": "PROD-A",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01",
+        "store_id": "103",
+        "units": 4,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9962",
+        "user_rut": "168649-1",
+        "item_sku": "SKU-002",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "2026/10/01",
+        "store_id": "104",
+        "units": 4,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9963",
+        "user_rut": "199799-K",
+        "item_sku": "PROD-A",
+        "sale_channel": null,
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "Sin Asignar",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9964",
+        "user_rut": "168750-5",
+        "item_sku": "PROD-A",
+        "sale_channel": "APP",
+        "timestamp": "01/10/2026",
+        "store_id": "104",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9965",
+        "user_rut": "127854-1",
+        "item_sku": "PROD-A",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": 2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9966",
+        "user_rut": "122489-4",
+        "item_sku": "sku-002",
+        "sale_channel": "Web",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9967",
+        "user_rut": "145928-0",
+        "item_sku": "tel-x",
+        "sale_channel": "",
+        "timestamp": "01/10/2026",
+        "store_id": "102",
+        "units": 1,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9968",
+        "user_rut": "191214-0",
+        "item_sku": "SKU-003",
+        "sale_channel": null,
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9969",
+        "user_rut": "199799-K",
+        "item_sku": "tel-x",
+        "sale_channel": "Call Center",
+        "timestamp": "2026/10/01",
+        "store_id": "Sin Asignar",
+        "units": -100,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9970",
+        "user_rut": "127854-1",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "web",
+        "timestamp": "2026/10/01",
+        "store_id": "None",
+        "units": 1,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9971",
+        "user_rut": "137881-5",
+        "item_sku": "SKU-002",
+        "sale_channel": null,
+        "timestamp": "01/10/2026",
+        "store_id": "None",
+        "units": 4,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9972",
+        "user_rut": "168750-5",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "",
+        "timestamp": "01/10/2026",
+        "store_id": "101",
+        "units": 2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9973",
+        "user_rut": "137881-5",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "104",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9974",
+        "user_rut": "145350-3",
+        "item_sku": "sku-002",
+        "sale_channel": "APP",
+        "timestamp": "01-10-2026",
+        "store_id": "105",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9975",
+        "user_rut": "147949-K",
+        "item_sku": "SKU-003",
+        "sale_channel": "Web",
+        "timestamp": "2026/10/01",
+        "store_id": "Sin Asignar",
+        "units": 1,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9976",
+        "user_rut": "127854-1",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026.10.01",
+        "store_id": "Sin Asignar",
+        "units": 2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9977",
+        "user_rut": "121704-6",
+        "item_sku": "SKU-003",
+        "sale_channel": "Web",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "Sin Asignar",
+        "units": 1,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9978",
+        "user_rut": "122489-4",
+        "item_sku": "PROD-A",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": -100,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9979",
+        "user_rut": "122489-4",
+        "item_sku": "TELEFONO_X",
+        "sale_channel": "",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "None",
+        "units": 2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9980",
+        "user_rut": "121704-6",
+        "item_sku": "sku-002",
+        "sale_channel": null,
+        "timestamp": "2026/10/01",
+        "store_id": "105",
+        "units": 4,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9981",
+        "user_rut": "122467-5",
+        "item_sku": "SKU-003",
+        "sale_channel": "web",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": 1,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9982",
+        "user_rut": "115777-3",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "APP",
+        "timestamp": "01/10/2026",
+        "store_id": "101",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9983",
+        "user_rut": "153384-2",
+        "item_sku": "sku_1",
+        "sale_channel": "call-center",
+        "timestamp": "2026-10-01",
+        "store_id": "102",
+        "units": -100,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9984",
+        "user_rut": "121704-6",
+        "item_sku": "PROD-A",
+        "sale_channel": "web",
+        "timestamp": "01-10-2026",
+        "store_id": "106",
+        "units": -2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9985",
+        "user_rut": "130814-6",
+        "item_sku": "SKU-003",
+        "sale_channel": null,
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "None",
+        "units": -2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9986",
+        "user_rut": "196858-8",
+        "item_sku": "sku_1",
+        "sale_channel": null,
+        "timestamp": "2026-10-01",
+        "store_id": "N/A",
+        "units": 4,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9987",
+        "user_rut": "153384-2",
+        "item_sku": "SKU-002",
+        "sale_channel": "call-center",
+        "timestamp": "01/10/2026",
+        "store_id": "102",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9988",
+        "user_rut": "138559-9",
+        "item_sku": "tel-x",
+        "sale_channel": "app_movil",
+        "timestamp": "01-10-2026",
+        "store_id": "102",
+        "units": -100,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9989",
+        "user_rut": "127854-1",
+        "item_sku": "sku-002",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01",
+        "store_id": "None",
+        "units": -2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9990",
+        "user_rut": "168649-1",
+        "item_sku": "NOTE-HP",
+        "sale_channel": null,
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "N/A",
+        "units": 2,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9991",
+        "user_rut": "130814-6",
+        "item_sku": "SKU-001",
+        "sale_channel": "APP",
+        "timestamp": "2026.10.01",
+        "store_id": "104",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9992",
+        "user_rut": "121704-6",
+        "item_sku": "NOTEBOOK-HP",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "2026/10/01",
+        "store_id": "None",
+        "units": 2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9993",
+        "user_rut": "147181-3",
+        "item_sku": "tel-x",
+        "sale_channel": "",
+        "timestamp": "01-10-2026",
+        "store_id": "None",
+        "units": -2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9994",
+        "user_rut": "158180-8",
+        "item_sku": "tel-x",
+        "sale_channel": "Web",
+        "timestamp": "01-10-2026",
+        "store_id": "103",
+        "units": 2,
+        "total_amount": 80000
+    },
+    {
+        "log_id": "LOG-9995",
+        "user_rut": "191214-0",
+        "item_sku": "PROD-A",
+        "sale_channel": "TIENDA FISICA",
+        "timestamp": "2026.10.01",
+        "store_id": "102",
+        "units": 1,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-9996",
+        "user_rut": "127854-1",
+        "item_sku": "NOTE-HP",
+        "sale_channel": "Tienda_Fisica",
+        "timestamp": "01/10/2026",
+        "store_id": "105",
+        "units": 2,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9997",
+        "user_rut": "145928-0",
+        "item_sku": "tel-x",
+        "sale_channel": "app_movil",
+        "timestamp": "2026.10.01",
+        "store_id": "102",
+        "units": -100,
+        "total_amount": 15000
+    },
+    {
+        "log_id": "LOG-9998",
+        "user_rut": "158180-8",
+        "item_sku": "SKU-003",
+        "sale_channel": "Web",
+        "timestamp": "2026-10-01",
+        "store_id": "103",
+        "units": 4,
+        "total_amount": -100
+    },
+    {
+        "log_id": "LOG-9999",
+        "user_rut": "123194-6",
+        "item_sku": "SKU-003",
+        "sale_channel": "call-center",
+        "timestamp": "01/10/2026",
+        "store_id": "Sin Asignar",
+        "units": -2,
+        "total_amount": -20000
+    },
+    {
+        "log_id": "LOG-99100",
+        "user_rut": "145928-0",
+        "item_sku": "sku-002",
+        "sale_channel": "web",
+        "timestamp": "2026-10-01 14:30:00",
+        "store_id": "105",
+        "units": -2,
+        "total_amount": 80000
+    }
+]
