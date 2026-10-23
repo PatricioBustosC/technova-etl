@@ -6,17 +6,16 @@ from dotenv import load_dotenv
 
 warnings.filterwarnings('ignore', category=UserWarning)
 
-# Carga las variables seguras
 load_dotenv()
 SERVER = os.getenv('DB_SERVER')
 DRIVER = os.getenv('DB_DRIVER')
 conn_dw_str = f'DRIVER={DRIVER};SERVER={SERVER};DATABASE=technova_dw;Trusted_connection=yes;'
 
-print("🚀 Iniciando fase de Carga (Load) en technova_dw...")
+print("Iniciando carga en technova_dw...")
 conn = pyodbc.connect(conn_dw_str, autocommit=True)
 cursor = conn.cursor()
 
-print("🚫 1. Cargando registros de rechazos...")
+print("Cargando tabla rechazos...")
 cursor.execute("""
     IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='rechazos' AND xtype='U')
     CREATE TABLE rechazos (
@@ -31,9 +30,27 @@ if os.path.exists('resumen_rechazos.csv'):
     df_rechazos = pd.read_csv('resumen_rechazos.csv')
     for index, row in df_rechazos.iterrows():
         cursor.execute("INSERT INTO rechazos (cantidad, razon) VALUES (?, ?)", int(row['cantidad']), str(row['razon']))
-    print(f"   ➔ {len(df_rechazos)} motivos de rechazo insertados correctamente.")
+    print(f"Rechazos insertados: {len(df_rechazos)}")
 
-print("\n✨ 2. Cargando datos limpios al Modelo Estrella...")
+print("Cargando dimension cliente...")
+if os.path.exists('clientes_limpios.csv'):
+    df_clientes = pd.read_csv('clientes_limpios.csv')
+    for index, row in df_clientes.iterrows():
+        rut = str(row['rut'])[:12]
+        nombre = str(row['nombre_cliente'])[:100] if pd.notna(row['nombre_cliente']) else 'Desconocido'
+        email = str(row['email'])[:100] if pd.notna(row['email']) else None
+        segmento = str(row['segmento'])[:50] if pd.notna(row['segmento']) else 'Sin Asignar'
+        
+        cursor.execute("""
+            IF NOT EXISTS (SELECT 1 FROM dim_cliente WHERE rut = ?)
+            INSERT INTO dim_cliente (rut, nombre_cliente, email, segmento)
+            VALUES (?, ?, ?, ?)
+        """, rut, rut, nombre, email, segmento)
+    print(f"Clientes procesados: {len(df_clientes)}")
+else:
+    print("Error: Archivo clientes_limpios.csv no encontrado.")
+
+print("Cargando otras dimensiones y hechos...")
 if os.path.exists('datos_limpios.csv'):
     df_limpios = pd.read_csv('datos_limpios.csv')
     
@@ -53,7 +70,8 @@ if os.path.exists('datos_limpios.csv'):
         cantidad = int(row['cantidad'])
         monto = float(row['monto'])
         
-        cursor.execute("IF NOT EXISTS (SELECT 1 FROM dim_cliente WHERE rut = ?) INSERT INTO dim_cliente (rut, nombre_cliente) VALUES (?, 'Cliente TNR')", rut, rut)
+        cursor.execute("IF NOT EXISTS (SELECT 1 FROM dim_cliente WHERE rut = ?) INSERT INTO dim_cliente (rut, nombre_cliente) VALUES (?, 'Cliente Desconocido')", rut, rut)
+        
         cursor.execute("IF NOT EXISTS (SELECT 1 FROM dim_producto WHERE sku = ?) INSERT INTO dim_producto (sku, nombre_producto) VALUES (?, 'Producto TNR')", sku, sku)
         cursor.execute("IF NOT EXISTS (SELECT 1 FROM dim_tienda WHERE id_tienda = ?) INSERT INTO dim_tienda (id_tienda, nombre_tienda) VALUES (?, 'Tienda TNR')", tienda_id, tienda_id)
         
@@ -70,9 +88,9 @@ if os.path.exists('datos_limpios.csv'):
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'Activa')
         """, id_venta, id_venta, rut, sku, tienda_id, canal_id, tiempo_id, cantidad, monto)
 
-    print(f"   ➔ {len(df_limpios)} transacciones limpias insertadas en fact_ventas y dimensiones.")
+    print(f"Transacciones procesadas: {len(df_limpios)}")
 else:
-    print("   ➔ Error: No se encontró 'datos_limpios.csv'.")
+    print("Error: Archivo datos_limpios.csv no encontrado.")
 
 conn.close()
-print("\n✅ ¡Proceso de carga completado con éxito!")
+print("Proceso terminado.")

@@ -110,3 +110,16 @@ INSERT INTO transacciones_sucias VALUES (7097, '147181-3', 'NOTE-HP', 'APP', '20
 INSERT INTO transacciones_sucias VALUES (7098, '196858-8', 'sku-002', 'app_movil', '2026-10-01 14:30:00', NULL, 2, 12000);
 INSERT INTO transacciones_sucias VALUES (7099, '137338-8', 'SKU-003', NULL, '01/10/2026', NULL, -100, -50000);
 INSERT INTO transacciones_sucias VALUES (7100, '145350-3', 'PROD-A', 'app_movil', '01/10/2026', NULL, 3, 12000);
+CREATE TABLE cliente_sucio (
+    rut VARCHAR(20),
+    nombre_cliente VARCHAR(100),
+    email VARCHAR(100),
+    segmento VARCHAR(50)
+);
+
+INSERT INTO cliente_sucio VALUES ('199658-6', 'Juan Perez', 'juan.p@correo.com', 'VIP');
+INSERT INTO cliente_sucio VALUES ('199658-6', 'Juan Perez', 'juan.p@correo.com', 'VIP');
+INSERT INTO cliente_sucio VALUES ('145350-3', 'Maria Lopez', NULL, 'Normal');
+INSERT INTO cliente_sucio VALUES ('12.246.75-5', 'Carlos', 'carlos@mail', 'N/A');
+INSERT INTO cliente_sucio VALUES ('187127-8', NULL, 'anonimo@correo.cl', 'Nuevo');
+INSERT INTO cliente_sucio VALUES ('114130-1', 'Ana', 'ana@correo.com', 'VIP');

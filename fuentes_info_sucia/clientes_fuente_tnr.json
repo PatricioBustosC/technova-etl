@@ -1,0 +1,56 @@
+[
+    {
+        "rut": "199658-6",
+        "nombre_cliente": "Juan Perez",
+        "email": "juan.p@correo.com",
+        "segmento": "VIP"
+    },
+    {
+        "rut": "183296-1",
+        "nombre_cliente": "Pedro Soto",
+        "email": "pedro@mail.com",
+        "segmento": "Normal"
+    },
+    {
+        "rut": "183296-1",
+        "nombre_cliente": "Pedro Soto",
+        "email": "pedro@mail.com",
+        "segmento": "Normal"
+    },
+    {
+        "rut": "12.246.75-5",
+        "nombre_cliente": "Carlos",
+        "email": "carlos_json@mail",
+        "segmento": "N/A"
+    },
+    {
+        "rut": "121704-6",
+        "nombre_cliente": "Sofia Castro",
+        "email": "scastro@correo.cl",
+        "segmento": "VIP"
+    },
+    {
+        "rut": "147181-3",
+        "nombre_cliente": "Felipe",
+        "email": null,
+        "segmento": "Normal"
+    },
+    {
+        "rut": "19.121.4-0",
+        "nombre_cliente": "Valentina Rojas",
+        "email": "vrojas@mail.com",
+        "segmento": "Nuevo"
+    },
+    {
+        "rut": "130479-5",
+        "nombre_cliente": "Andrea",
+        "email": "andrea_123@correo.com",
+        "segmento": "VIP"
+    },
+    {
+        "rut": "122489-4",
+        "nombre_cliente": "Tomas Ramirez",
+        "email": "tramirez@empresa.com",
+        "segmento": "Normal"
+    }
+]
