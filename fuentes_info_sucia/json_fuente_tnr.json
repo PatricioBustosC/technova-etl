@@ -1,1002 +1,1002 @@
 [
     {
-        "log_id": "LOG-991",
-        "user_rut": "168750-5",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "web",
-        "timestamp": "01/10/2026",
-        "store_id": "105",
-        "units": 1,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-992",
-        "user_rut": "114130-1",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "APP",
-        "timestamp": "2026.10.01",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-993",
-        "user_rut": "153384-2",
-        "item_sku": "SKU-003",
-        "sale_channel": "APP",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "102",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-994",
-        "user_rut": "187127-8",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "",
-        "timestamp": "2026.10.01",
-        "store_id": "104",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-995",
-        "user_rut": "130479-5",
-        "item_sku": "SKU-002",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "01/10/2026",
-        "store_id": "104",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-996",
-        "user_rut": "135833-K",
-        "item_sku": "SKU-003",
-        "sale_channel": "APP",
-        "timestamp": "2026.10.01",
-        "store_id": "None",
-        "units": 1,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-997",
-        "user_rut": "121704-6",
-        "item_sku": "sku-002",
-        "sale_channel": "call-center",
-        "timestamp": "2026.10.01",
-        "store_id": "105",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-998",
-        "user_rut": "122489-4",
-        "item_sku": "SKU-001",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "N/A",
-        "units": 1,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-999",
-        "user_rut": "189982-5",
-        "item_sku": "SKU-003",
-        "sale_channel": "app_movil",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9910",
-        "user_rut": "153384-2",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "app_movil",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "103",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9911",
-        "user_rut": "187127-8",
-        "item_sku": "sku_1",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "None",
-        "units": 1,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9912",
-        "user_rut": "137338-8",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "APP",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9913",
-        "user_rut": "196858-8",
-        "item_sku": "TELEFONO_X",
-        "sale_channel": "APP",
-        "timestamp": "01-10-2026",
-        "store_id": "None",
-        "units": 2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9914",
-        "user_rut": "121704-6",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "101",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9915",
-        "user_rut": "183296-1",
-        "item_sku": "PROD-A",
-        "sale_channel": "call-center",
-        "timestamp": "2026/10/01",
-        "store_id": "106",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9916",
-        "user_rut": "123194-6",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "app_movil",
-        "timestamp": "01-10-2026",
-        "store_id": "103",
-        "units": 4,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9917",
-        "user_rut": "168750-5",
-        "item_sku": "sku_1",
-        "sale_channel": "Call Center",
-        "timestamp": "01/10/2026",
-        "store_id": "106",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9918",
-        "user_rut": "121704-6",
-        "item_sku": "SKU-003",
-        "sale_channel": "APP",
-        "timestamp": "2026/10/01",
-        "store_id": "102",
-        "units": -2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9919",
-        "user_rut": "158180-8",
-        "item_sku": "SKU-003",
-        "sale_channel": "",
-        "timestamp": "01-10-2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9920",
-        "user_rut": "199799-K",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "APP",
-        "timestamp": "2026.10.01",
-        "store_id": "103",
-        "units": -2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9921",
-        "user_rut": "130814-6",
-        "item_sku": "sku_1",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026-10-01",
-        "store_id": "103",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9922",
-        "user_rut": "187127-8",
-        "item_sku": "PROD-A",
-        "sale_channel": null,
-        "timestamp": "2026/10/01",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9923",
-        "user_rut": "137881-5",
-        "item_sku": "SKU-003",
-        "sale_channel": "call-center",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "Sin Asignar",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9924",
-        "user_rut": "183296-1",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01",
-        "store_id": "103",
-        "units": -2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9925",
-        "user_rut": "153384-2",
-        "item_sku": "sku_1",
-        "sale_channel": null,
-        "timestamp": "01-10-2026",
-        "store_id": "Sin Asignar",
-        "units": 2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9926",
-        "user_rut": "127854-1",
-        "item_sku": "SKU-001",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "106",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9927",
-        "user_rut": "196858-8",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "APP",
-        "timestamp": "2026-10-01",
-        "store_id": "103",
-        "units": -2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9928",
-        "user_rut": "158180-8",
-        "item_sku": "sku_1",
-        "sale_channel": "",
-        "timestamp": "2026/10/01",
-        "store_id": "104",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9929",
-        "user_rut": "191214-0",
-        "item_sku": "sku_1",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026-10-01",
-        "store_id": "106",
-        "units": -100,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9930",
-        "user_rut": "168649-1",
-        "item_sku": "SKU-001",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9931",
-        "user_rut": "114130-1",
-        "item_sku": "SKU-003",
-        "sale_channel": "Call Center",
-        "timestamp": "2026-10-01",
-        "store_id": "102",
-        "units": 4,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9932",
-        "user_rut": "153384-2",
-        "item_sku": "SKU-002",
-        "sale_channel": "app_movil",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9933",
-        "user_rut": "183296-1",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "APP",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9934",
-        "user_rut": "127854-1",
-        "item_sku": "SKU-002",
-        "sale_channel": "APP",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "N/A",
-        "units": -2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9935",
-        "user_rut": "115777-3",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "call-center",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9936",
-        "user_rut": "158180-8",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "call-center",
-        "timestamp": "2026/10/01",
-        "store_id": "103",
-        "units": -2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9937",
-        "user_rut": "199799-K",
-        "item_sku": "tel-x",
-        "sale_channel": "call-center",
-        "timestamp": "2026-10-01",
-        "store_id": "102",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9938",
-        "user_rut": "183296-1",
-        "item_sku": "PROD-A",
-        "sale_channel": "APP",
-        "timestamp": "2026.10.01",
-        "store_id": "None",
-        "units": 4,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9939",
-        "user_rut": "187127-8",
-        "item_sku": "sku_1",
-        "sale_channel": "call-center",
-        "timestamp": "2026/10/01",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9940",
-        "user_rut": "122467-5",
-        "item_sku": "tel-x",
-        "sale_channel": "Call Center",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9941",
-        "user_rut": "130814-6",
-        "item_sku": "TELEFONO_X",
-        "sale_channel": "",
-        "timestamp": "2026.10.01",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9942",
-        "user_rut": "187127-8",
-        "item_sku": "sku-002",
-        "sale_channel": "app_movil",
-        "timestamp": "2026.10.01",
-        "store_id": "101",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9943",
-        "user_rut": "168750-5",
-        "item_sku": "SKU-003",
-        "sale_channel": "",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9944",
-        "user_rut": "145928-0",
-        "item_sku": "SKU-002",
-        "sale_channel": null,
-        "timestamp": "2026.10.01",
-        "store_id": "105",
-        "units": 2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9945",
-        "user_rut": "183296-1",
-        "item_sku": "TELEFONO_X",
-        "sale_channel": "",
-        "timestamp": "01/10/2026",
-        "store_id": "N/A",
-        "units": -100,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9946",
-        "user_rut": "115777-3",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "Call Center",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9947",
-        "user_rut": "121704-6",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "105",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9948",
-        "user_rut": "191214-0",
-        "item_sku": "PROD-A",
-        "sale_channel": "Call Center",
-        "timestamp": "2026-10-01",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9949",
-        "user_rut": "127854-1",
-        "item_sku": "tel-x",
-        "sale_channel": "app_movil",
-        "timestamp": "2026.10.01",
-        "store_id": "102",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9950",
-        "user_rut": "138559-9",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": null,
-        "timestamp": "2026/10/01",
-        "store_id": "102",
-        "units": 1,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9951",
-        "user_rut": "187127-8",
-        "item_sku": "sku_1",
-        "sale_channel": "Call Center",
-        "timestamp": "2026/10/01",
-        "store_id": "105",
-        "units": 1,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9952",
-        "user_rut": "136786-4",
-        "item_sku": "SKU-001",
-        "sale_channel": "Web",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "103",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9953",
-        "user_rut": "153384-2",
-        "item_sku": "PROD-A",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026.10.01",
-        "store_id": "106",
-        "units": 1,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9954",
-        "user_rut": "114130-1",
-        "item_sku": "sku_1",
-        "sale_channel": "",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9955",
-        "user_rut": "187127-8",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "APP",
-        "timestamp": "01/10/2026",
-        "store_id": "101",
-        "units": 4,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9956",
-        "user_rut": "121704-6",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "2026/10/01",
-        "store_id": "104",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9957",
-        "user_rut": "147949-K",
-        "item_sku": "sku-002",
-        "sale_channel": "APP",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9958",
-        "user_rut": "196858-8",
-        "item_sku": "TELEFONO_X",
-        "sale_channel": "Call Center",
-        "timestamp": "2026.10.01",
-        "store_id": "106",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9959",
-        "user_rut": "191214-0",
-        "item_sku": "sku-002",
-        "sale_channel": "APP",
-        "timestamp": "2026/10/01",
-        "store_id": "101",
-        "units": -2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9960",
-        "user_rut": "168750-5",
-        "item_sku": "tel-x",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026.10.01",
-        "store_id": "Sin Asignar",
-        "units": 1,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9961",
-        "user_rut": "189982-5",
-        "item_sku": "PROD-A",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01",
-        "store_id": "103",
-        "units": 4,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9962",
-        "user_rut": "168649-1",
-        "item_sku": "SKU-002",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "2026/10/01",
-        "store_id": "104",
-        "units": 4,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9963",
-        "user_rut": "199799-K",
-        "item_sku": "PROD-A",
-        "sale_channel": null,
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "Sin Asignar",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9964",
-        "user_rut": "168750-5",
-        "item_sku": "PROD-A",
-        "sale_channel": "APP",
-        "timestamp": "01/10/2026",
-        "store_id": "104",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9965",
-        "user_rut": "127854-1",
-        "item_sku": "PROD-A",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": 2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9966",
-        "user_rut": "122489-4",
-        "item_sku": "sku-002",
-        "sale_channel": "Web",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9967",
-        "user_rut": "145928-0",
-        "item_sku": "tel-x",
-        "sale_channel": "",
-        "timestamp": "01/10/2026",
-        "store_id": "102",
-        "units": 1,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9968",
-        "user_rut": "191214-0",
-        "item_sku": "SKU-003",
-        "sale_channel": null,
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9969",
-        "user_rut": "199799-K",
-        "item_sku": "tel-x",
-        "sale_channel": "Call Center",
-        "timestamp": "2026/10/01",
-        "store_id": "Sin Asignar",
-        "units": -100,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9970",
-        "user_rut": "127854-1",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "web",
-        "timestamp": "2026/10/01",
-        "store_id": "None",
-        "units": 1,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9971",
-        "user_rut": "137881-5",
-        "item_sku": "SKU-002",
-        "sale_channel": null,
-        "timestamp": "01/10/2026",
-        "store_id": "None",
-        "units": 4,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9972",
-        "user_rut": "168750-5",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "",
-        "timestamp": "01/10/2026",
-        "store_id": "101",
-        "units": 2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9973",
-        "user_rut": "137881-5",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "104",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9974",
-        "user_rut": "145350-3",
-        "item_sku": "sku-002",
-        "sale_channel": "APP",
-        "timestamp": "01-10-2026",
-        "store_id": "105",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9975",
-        "user_rut": "147949-K",
-        "item_sku": "SKU-003",
-        "sale_channel": "Web",
-        "timestamp": "2026/10/01",
-        "store_id": "Sin Asignar",
-        "units": 1,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9976",
-        "user_rut": "127854-1",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026.10.01",
-        "store_id": "Sin Asignar",
-        "units": 2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9977",
-        "user_rut": "121704-6",
-        "item_sku": "SKU-003",
-        "sale_channel": "Web",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "Sin Asignar",
-        "units": 1,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9978",
-        "user_rut": "122489-4",
-        "item_sku": "PROD-A",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": -100,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9979",
-        "user_rut": "122489-4",
-        "item_sku": "TELEFONO_X",
-        "sale_channel": "",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "None",
-        "units": 2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9980",
-        "user_rut": "121704-6",
-        "item_sku": "sku-002",
-        "sale_channel": null,
-        "timestamp": "2026/10/01",
-        "store_id": "105",
-        "units": 4,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9981",
-        "user_rut": "122467-5",
-        "item_sku": "SKU-003",
-        "sale_channel": "web",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": 1,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9982",
-        "user_rut": "115777-3",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "APP",
-        "timestamp": "01/10/2026",
-        "store_id": "101",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9983",
-        "user_rut": "153384-2",
-        "item_sku": "sku_1",
-        "sale_channel": "call-center",
-        "timestamp": "2026-10-01",
-        "store_id": "102",
-        "units": -100,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9984",
-        "user_rut": "121704-6",
-        "item_sku": "PROD-A",
-        "sale_channel": "web",
-        "timestamp": "01-10-2026",
-        "store_id": "106",
-        "units": -2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9985",
-        "user_rut": "130814-6",
-        "item_sku": "SKU-003",
-        "sale_channel": null,
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "None",
-        "units": -2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9986",
-        "user_rut": "196858-8",
-        "item_sku": "sku_1",
-        "sale_channel": null,
-        "timestamp": "2026-10-01",
-        "store_id": "N/A",
-        "units": 4,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9987",
-        "user_rut": "153384-2",
-        "item_sku": "SKU-002",
-        "sale_channel": "call-center",
-        "timestamp": "01/10/2026",
-        "store_id": "102",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9988",
-        "user_rut": "138559-9",
-        "item_sku": "tel-x",
-        "sale_channel": "app_movil",
-        "timestamp": "01-10-2026",
-        "store_id": "102",
-        "units": -100,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9989",
-        "user_rut": "127854-1",
-        "item_sku": "sku-002",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01",
-        "store_id": "None",
-        "units": -2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9990",
-        "user_rut": "168649-1",
-        "item_sku": "NOTE-HP",
-        "sale_channel": null,
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "N/A",
-        "units": 2,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9991",
-        "user_rut": "130814-6",
-        "item_sku": "SKU-001",
-        "sale_channel": "APP",
-        "timestamp": "2026.10.01",
-        "store_id": "104",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9992",
-        "user_rut": "121704-6",
-        "item_sku": "NOTEBOOK-HP",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "2026/10/01",
-        "store_id": "None",
-        "units": 2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9993",
-        "user_rut": "147181-3",
-        "item_sku": "tel-x",
-        "sale_channel": "",
-        "timestamp": "01-10-2026",
-        "store_id": "None",
-        "units": -2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9994",
-        "user_rut": "158180-8",
-        "item_sku": "tel-x",
-        "sale_channel": "Web",
-        "timestamp": "01-10-2026",
-        "store_id": "103",
-        "units": 2,
-        "total_amount": 80000
-    },
-    {
-        "log_id": "LOG-9995",
-        "user_rut": "191214-0",
-        "item_sku": "PROD-A",
-        "sale_channel": "TIENDA FISICA",
-        "timestamp": "2026.10.01",
-        "store_id": "102",
-        "units": 1,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-9996",
-        "user_rut": "127854-1",
-        "item_sku": "NOTE-HP",
-        "sale_channel": "Tienda_Fisica",
-        "timestamp": "01/10/2026",
-        "store_id": "105",
-        "units": 2,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9997",
-        "user_rut": "145928-0",
-        "item_sku": "tel-x",
-        "sale_channel": "app_movil",
-        "timestamp": "2026.10.01",
-        "store_id": "102",
-        "units": -100,
-        "total_amount": 15000
-    },
-    {
-        "log_id": "LOG-9998",
-        "user_rut": "158180-8",
-        "item_sku": "SKU-003",
-        "sale_channel": "Web",
-        "timestamp": "2026-10-01",
-        "store_id": "103",
-        "units": 4,
-        "total_amount": -100
-    },
-    {
-        "log_id": "LOG-9999",
-        "user_rut": "123194-6",
-        "item_sku": "SKU-003",
-        "sale_channel": "call-center",
-        "timestamp": "01/10/2026",
-        "store_id": "Sin Asignar",
-        "units": -2,
-        "total_amount": -20000
-    },
-    {
-        "log_id": "LOG-99100",
-        "user_rut": "145928-0",
-        "item_sku": "sku-002",
-        "sale_channel": "web",
-        "timestamp": "2026-10-01 14:30:00",
-        "store_id": "105",
-        "units": -2,
-        "total_amount": 80000
+        "num_boleta": "LOG-9000",
+        "cliente_id": "102",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025.04.03",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9001",
+        "cliente_id": "104",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/03/01",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 1,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9002",
+        "cliente_id": "103",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.01.20",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -5,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9003",
+        "cliente_id": "101",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025-05-28 00:00:00",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9004",
+        "cliente_id": "100",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "24-05-2025",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 3,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9005",
+        "cliente_id": "106",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.02.21",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 2,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9006",
+        "cliente_id": "100",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025-03-15 00:00:00",
+        "codigo_sucursal": null,
+        "cantidad": -5,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9007",
+        "cliente_id": "108",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.05.15",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9008",
+        "cliente_id": "101",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025.03.20",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 2,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9009",
+        "cliente_id": "110",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-01-24 00:00:00",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -100,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9010",
+        "cliente_id": "106",
+        "sku": "ASP-003",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025-03-11 00:00:00",
+        "codigo_sucursal": null,
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9011",
+        "cliente_id": "106",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.05.30",
+        "codigo_sucursal": null,
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9012",
+        "cliente_id": "105",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025/05/29",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 2,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9013",
+        "cliente_id": "108",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.04.06",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -5,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9014",
+        "cliente_id": "109",
+        "sku": "NB-001",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025-04-18 00:00:00",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 1,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9015",
+        "cliente_id": "104",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/04/06",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9016",
+        "cliente_id": "102",
+        "sku": "AU-002",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.03.31",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 4,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9017",
+        "cliente_id": "104",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025.05.11",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 3,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9018",
+        "cliente_id": "105",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025/06/28",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": -5,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9019",
+        "cliente_id": "102",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-05-27 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9020",
+        "cliente_id": "103",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025/02/19",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 2,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9021",
+        "cliente_id": "103",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.02.26",
+        "codigo_sucursal": null,
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9022",
+        "cliente_id": "106",
+        "sku": "AU-002",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025/06/09",
+        "codigo_sucursal": null,
+        "cantidad": 4,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9023",
+        "cliente_id": "103",
+        "sku": "ASP-003",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "27-02-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -5,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9024",
+        "cliente_id": "103",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.02.07",
+        "codigo_sucursal": null,
+        "cantidad": 1,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9025",
+        "cliente_id": "103",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025-04-29 00:00:00",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9026",
+        "cliente_id": "107",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025-01-31 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9027",
+        "cliente_id": "101",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025.06.21",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9028",
+        "cliente_id": "103",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-01-21 00:00:00",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 4,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9029",
+        "cliente_id": "103",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "25-04-2025",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 3,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9030",
+        "cliente_id": "102",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.02.20",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 4,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9031",
+        "cliente_id": "104",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "05-05-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -5,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9032",
+        "cliente_id": "108",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "20-05-2025",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9033",
+        "cliente_id": "102",
+        "sku": "AU-002",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-01-14 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -100,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9034",
+        "cliente_id": "108",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025-01-03 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9035",
+        "cliente_id": "108",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "25-04-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 2,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9036",
+        "cliente_id": "108",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/05/16",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 4,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9037",
+        "cliente_id": "107",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "20-06-2025",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9038",
+        "cliente_id": "109",
+        "sku": "NB-001",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "08-02-2025",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 4,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9039",
+        "cliente_id": "106",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.01.18",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -5,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9040",
+        "cliente_id": "104",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-03-19 00:00:00",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 3,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9041",
+        "cliente_id": "100",
+        "sku": "NB-001",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.05.27",
+        "codigo_sucursal": null,
+        "cantidad": 4,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9042",
+        "cliente_id": "109",
+        "sku": "ASP-003",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025-03-03 00:00:00",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9043",
+        "cliente_id": "103",
+        "sku": "NB-001",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "08-06-2025",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9044",
+        "cliente_id": "106",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/03/05",
+        "codigo_sucursal": null,
+        "cantidad": -100,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9045",
+        "cliente_id": "102",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-02-28 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9046",
+        "cliente_id": "100",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.03.23",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 4,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9047",
+        "cliente_id": "106",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025.05.06",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -5,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9048",
+        "cliente_id": "108",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025.04.23",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 3,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9049",
+        "cliente_id": "109",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-06-30 00:00:00",
+        "codigo_sucursal": null,
+        "cantidad": -5,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9050",
+        "cliente_id": "105",
+        "sku": "AU-002",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "29-03-2025",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 2,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9051",
+        "cliente_id": "104",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-04-12 00:00:00",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -100,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9052",
+        "cliente_id": "108",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025-02-08 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 2,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9053",
+        "cliente_id": "103",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025-01-07 00:00:00",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 3,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9054",
+        "cliente_id": "106",
+        "sku": "NB-001",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.04.14",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9055",
+        "cliente_id": "101",
+        "sku": "ASP-003",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025/03/09",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 4,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9056",
+        "cliente_id": "100",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "09-05-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9057",
+        "cliente_id": "109",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025/05/26",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 3,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9058",
+        "cliente_id": "106",
+        "sku": "AU-002",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "29-03-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 2,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9059",
+        "cliente_id": "101",
+        "sku": "ASP-003",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025-03-29 00:00:00",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -5,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9060",
+        "cliente_id": "108",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "09-05-2025",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": -5,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9061",
+        "cliente_id": "100",
+        "sku": "ASP-003",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.06.12",
+        "codigo_sucursal": null,
+        "cantidad": 3,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9062",
+        "cliente_id": "107",
+        "sku": "AU-002",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-03-16 00:00:00",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 4,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9063",
+        "cliente_id": "110",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/04/11",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 1,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9064",
+        "cliente_id": "100",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.01.22",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -100,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9065",
+        "cliente_id": "104",
+        "sku": "NB-001",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "30-06-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9066",
+        "cliente_id": "109",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.01.27",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 2,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9067",
+        "cliente_id": "105",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025-05-24 00:00:00",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": -5,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9068",
+        "cliente_id": "107",
+        "sku": "NB-001",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "06-02-2025",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9069",
+        "cliente_id": "110",
+        "sku": "ASP-003",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025.06.09",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": 3,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9070",
+        "cliente_id": "108",
+        "sku": "AU-002",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "07-03-2025",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 2,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9071",
+        "cliente_id": "107",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.03.07",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 3,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9072",
+        "cliente_id": "110",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "20-03-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 2,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9073",
+        "cliente_id": "107",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025/04/14",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 2,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9074",
+        "cliente_id": "100",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "29-05-2025",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 3,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9075",
+        "cliente_id": "104",
+        "sku": "NB-001",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025.06.25",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": -100,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9076",
+        "cliente_id": "105",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/03/29",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -5,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9077",
+        "cliente_id": "100",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "20-03-2025",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9078",
+        "cliente_id": "107",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025/06/05",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 3,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9079",
+        "cliente_id": "103",
+        "sku": "AU-002",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/05/23",
+        "codigo_sucursal": null,
+        "cantidad": 1,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9080",
+        "cliente_id": "106",
+        "sku": "AU-002",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "23-04-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 4,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9081",
+        "cliente_id": "108",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025/05/02",
+        "codigo_sucursal": null,
+        "cantidad": 1,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9082",
+        "cliente_id": "100",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025/03/30",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9083",
+        "cliente_id": "109",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025.02.02",
+        "codigo_sucursal": null,
+        "cantidad": 3,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9084",
+        "cliente_id": "104",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-02-03 00:00:00",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": -5,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9085",
+        "cliente_id": "104",
+        "sku": "ASP-003",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025-06-09 00:00:00",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": -100,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9086",
+        "cliente_id": "107",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-01-22 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -5,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9087",
+        "cliente_id": "105",
+        "sku": "NB-001",
+        "codigo_canal": "APP_MOVIL",
+        "fecha_transaccion": "2025/02/03",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": -100,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9088",
+        "cliente_id": "108",
+        "sku": "ASP-003",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025/06/28",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 3,
+        "monto_neto": -50000
+    },
+    {
+        "num_boleta": "LOG-9089",
+        "cliente_id": "108",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "10-03-2025",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 1,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9090",
+        "cliente_id": "102",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.04.25",
+        "codigo_sucursal": "SUC-03",
+        "cantidad": -100,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9091",
+        "cliente_id": "108",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025.03.11",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": 3,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9092",
+        "cliente_id": "102",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-01",
+        "fecha_transaccion": "2025.01.23",
+        "codigo_sucursal": "SUC-01",
+        "cantidad": 1,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9093",
+        "cliente_id": "108",
+        "sku": "NB-001",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "08-05-2025",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": 2,
+        "monto_neto": 12000
+    },
+    {
+        "num_boleta": "LOG-9094",
+        "cliente_id": "107",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025-05-23 00:00:00",
+        "codigo_sucursal": "SUC-02",
+        "cantidad": -100,
+        "monto_neto": 30000
+    },
+    {
+        "num_boleta": "LOG-9095",
+        "cliente_id": "105",
+        "sku": "SKU-FALSO",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "2025.03.11",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": -5,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9096",
+        "cliente_id": "107",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "CAN-02",
+        "fecha_transaccion": "2025/03/29",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9097",
+        "cliente_id": "105",
+        "sku": "SKU-ERRONEO",
+        "codigo_canal": "TELEFONO",
+        "fecha_transaccion": "2025-02-19 00:00:00",
+        "codigo_sucursal": null,
+        "cantidad": 3,
+        "monto_neto": 80000
+    },
+    {
+        "num_boleta": "LOG-9098",
+        "cliente_id": "106",
+        "sku": "AU-002",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "13-01-2025",
+        "codigo_sucursal": "SUC-FALSA",
+        "cantidad": -100,
+        "monto_neto": -100
+    },
+    {
+        "num_boleta": "LOG-9099",
+        "cliente_id": "103",
+        "sku": "NB-001",
+        "codigo_canal": "N/A",
+        "fecha_transaccion": "02-06-2025",
+        "codigo_sucursal": "Sin Asignar",
+        "cantidad": 2,
+        "monto_neto": -50000
     }
 ]

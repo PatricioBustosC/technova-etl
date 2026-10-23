@@ -1,8 +1,10 @@
 import pyodbc
 import os
+from dotenv import load_dotenv
 
-SERVER = '127.0.0.1'
-DRIVER = '{ODBC Driver 17 for SQL Server}'
+load_dotenv()
+SERVER = os.getenv('DB_SERVER')
+DRIVER = os.getenv('DB_DRIVER')
 
 print("Iniciando limpieza del entorno...")
 
@@ -24,25 +26,22 @@ except Exception as e:
     print(f"Error al borrar DB_SUCIA: {e}")
 
 try:
-    conn_dw = pyodbc.connect(f'DRIVER={DRIVER};SERVER={SERVER};DATABASE=technova_dw;Trusted_connection=yes;', autocommit=True)
+    conn_dw = pyodbc.connect(f'DRIVER={DRIVER};SERVER={SERVER};DATABASE=DataRetail360_DW;Trusted_connection=yes;', autocommit=True)
     cursor_dw = conn_dw.cursor()
     
-    print("Eliminando tabla rechazos...")
-    cursor_dw.execute("IF EXISTS (SELECT * FROM sysobjects WHERE name='rechazos' AND xtype='U') DROP TABLE rechazos;")
-    
-    print("Vaciando tablas...")
-    tablas_a_vaciar = ["fact_ventas", "dim_cliente", "dim_producto", "dim_tienda", "dim_canal_venta", "dim_tiempo"]
+    print("Vaciando tablas de hechos y logs...")
+    tablas_a_vaciar = ["fact_ventas", "fact_ventas_staging", "etl_log_ejecucion", "tabla_rechazos"]
     for tabla in tablas_a_vaciar:
         cursor_dw.execute(f"DELETE FROM {tabla};")
         
     cursor_dw.close()
     conn_dw.close()
-    print("Base de datos purgada.")
+    print("Base de datos DataRetail360_DW purgada (dimensiones intactas).")
 except Exception as e:
-    print(f"Error al limpiar technova_dw: {e}")
+    print(f"Error al limpiar DataRetail360_DW: {e}")
 
 print("Eliminando archivos temporales...")
-archivos_csv = ['datos_crudos.csv', 'datos_limpios.csv', 'resumen_rechazos.csv']
+archivos_csv = ['datos_crudos.csv', 'datos_limpios.csv', 'clientes_crudos.csv', 'clientes_limpios.csv', 'resumen_rechazos.csv']
 for archivo in archivos_csv:
     if os.path.exists(archivo):
         os.remove(archivo)

@@ -1,56 +1,702 @@
 [
     {
-        "rut": "199658-6",
-        "nombre_cliente": "Juan Perez",
-        "email": "juan.p@correo.com",
+        "cliente_id": "115",
+        "nombre": "Andrea",
+        "comuna": "Antofagasta",
+        "region": "Biobio",
         "segmento": "VIP"
     },
     {
-        "rut": "183296-1",
-        "nombre_cliente": "Pedro Soto",
-        "email": "pedro@mail.com",
-        "segmento": "Normal"
+        "cliente_id": "118",
+        "nombre": "Sofia Castro",
+        "comuna": "Providencia",
+        "region": "Valparaiso",
+        "segmento": null
     },
     {
-        "rut": "183296-1",
-        "nombre_cliente": "Pedro Soto",
-        "email": "pedro@mail.com",
-        "segmento": "Normal"
-    },
-    {
-        "rut": "12.246.75-5",
-        "nombre_cliente": "Carlos",
-        "email": "carlos_json@mail",
-        "segmento": "N/A"
-    },
-    {
-        "rut": "121704-6",
-        "nombre_cliente": "Sofia Castro",
-        "email": "scastro@correo.cl",
-        "segmento": "VIP"
-    },
-    {
-        "rut": "147181-3",
-        "nombre_cliente": "Felipe",
-        "email": null,
-        "segmento": "Normal"
-    },
-    {
-        "rut": "19.121.4-0",
-        "nombre_cliente": "Valentina Rojas",
-        "email": "vrojas@mail.com",
+        "cliente_id": "102",
+        "nombre": "Sofia Castro",
+        "comuna": "Concepcion",
+        "region": null,
         "segmento": "Nuevo"
     },
     {
-        "rut": "130479-5",
-        "nombre_cliente": "Andrea",
-        "email": "andrea_123@correo.com",
+        "cliente_id": "119",
+        "nombre": "Juan Perez",
+        "comuna": "Antofagasta",
+        "region": "Metropolitana",
+        "segmento": null
+    },
+    {
+        "cliente_id": "110",
+        "nombre": null,
+        "comuna": null,
+        "region": "Biobio",
         "segmento": "VIP"
     },
     {
-        "rut": "122489-4",
-        "nombre_cliente": "Tomas Ramirez",
-        "email": "tramirez@empresa.com",
+        "cliente_id": "117",
+        "nombre": "Juan Perez",
+        "comuna": "Antofagasta",
+        "region": "Biobio",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "107",
+        "nombre": "Valentina Rojas",
+        "comuna": null,
+        "region": "Biobio",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Juan Perez",
+        "comuna": "Concepcion",
+        "region": "Desconocida",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "107",
+        "nombre": "Marta Diaz",
+        "comuna": "Desconocida",
+        "region": "Metropolitana",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "110",
+        "nombre": "Carlos",
+        "comuna": "Desconocida",
+        "region": null,
         "segmento": "Normal"
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Valentina Rojas",
+        "comuna": "Concepcion",
+        "region": "Biobio",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "108",
+        "nombre": "Sofia Castro",
+        "comuna": "Providencia",
+        "region": null,
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Carlos",
+        "comuna": null,
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "106",
+        "nombre": "Ana Silva",
+        "comuna": "Antofagasta",
+        "region": null,
+        "segmento": null
+    },
+    {
+        "cliente_id": "109",
+        "nombre": "Marta Diaz",
+        "comuna": "Antofagasta",
+        "region": "Valparaiso",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "113",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Antofagasta",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "111",
+        "nombre": "Valentina Rojas",
+        "comuna": "Providencia",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Ana Silva",
+        "comuna": "Providencia",
+        "region": "Metropolitana",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "113",
+        "nombre": "Juan Perez",
+        "comuna": "Concepcion",
+        "region": "Metropolitana",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "109",
+        "nombre": "Juan Perez",
+        "comuna": null,
+        "region": "Metropolitana",
+        "segmento": null
+    },
+    {
+        "cliente_id": "108",
+        "nombre": "Sofia Castro",
+        "comuna": "Concepcion",
+        "region": "Valparaiso",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "108",
+        "nombre": "Juan Perez",
+        "comuna": "Concepcion",
+        "region": "Antofagasta",
+        "segmento": null
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Carlos",
+        "comuna": "Antofagasta",
+        "region": "Antofagasta",
+        "segmento": null
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Pedro Soto",
+        "comuna": "Providencia",
+        "region": "Valparaiso",
+        "segmento": null
+    },
+    {
+        "cliente_id": "112",
+        "nombre": null,
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Pedro Soto",
+        "comuna": "Concepcion",
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "116",
+        "nombre": "Tomas Ramirez",
+        "comuna": null,
+        "region": "Metropolitana",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "117",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Antofagasta",
+        "region": "Metropolitana",
+        "segmento": null
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Juan Perez",
+        "comuna": "Desconocida",
+        "region": null,
+        "segmento": null
+    },
+    {
+        "cliente_id": "113",
+        "nombre": "Ana Silva",
+        "comuna": null,
+        "region": "Valparaiso",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "114",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Santiago",
+        "region": "Metropolitana",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "102",
+        "nombre": "Andrea",
+        "comuna": null,
+        "region": "Desconocida",
+        "segmento": null
+    },
+    {
+        "cliente_id": "116",
+        "nombre": "Ana Silva",
+        "comuna": null,
+        "region": null,
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "110",
+        "nombre": "Andrea",
+        "comuna": "Concepcion",
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Marta Diaz",
+        "comuna": "Desconocida",
+        "region": null,
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Marta Diaz",
+        "comuna": "Desconocida",
+        "region": "Antofagasta",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "120",
+        "nombre": "Sofia Castro",
+        "comuna": "Concepcion",
+        "region": "Biobio",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "118",
+        "nombre": null,
+        "comuna": "Desconocida",
+        "region": "Biobio",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "117",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Providencia",
+        "region": "Metropolitana",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "112",
+        "nombre": "Marta Diaz",
+        "comuna": "Santiago",
+        "region": null,
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "108",
+        "nombre": "Juan Perez",
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Valentina Rojas",
+        "comuna": "Santiago",
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "116",
+        "nombre": null,
+        "comuna": "Providencia",
+        "region": "Valparaiso",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "115",
+        "nombre": null,
+        "comuna": "Providencia",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "112",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Metropolitana",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "106",
+        "nombre": null,
+        "comuna": "Concepcion",
+        "region": "Biobio",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "117",
+        "nombre": "Tomas Ramirez",
+        "comuna": null,
+        "region": "Valparaiso",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "111",
+        "nombre": "Valentina Rojas",
+        "comuna": "Desconocida",
+        "region": "Metropolitana",
+        "segmento": null
+    },
+    {
+        "cliente_id": "119",
+        "nombre": "Ana Silva",
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": null
+    },
+    {
+        "cliente_id": "116",
+        "nombre": "Felipe",
+        "comuna": "Antofagasta",
+        "region": "Antofagasta",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Sofia Castro",
+        "comuna": "Desconocida",
+        "region": "Desconocida",
+        "segmento": null
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Felipe",
+        "comuna": null,
+        "region": null,
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "107",
+        "nombre": "Pedro Soto",
+        "comuna": "Providencia",
+        "region": "Antofagasta",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "116",
+        "nombre": "Carlos",
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "108",
+        "nombre": "Juan Perez",
+        "comuna": "Santiago",
+        "region": "Valparaiso",
+        "segmento": null
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Sofia Castro",
+        "comuna": "Providencia",
+        "region": "Valparaiso",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "114",
+        "nombre": "Andrea",
+        "comuna": null,
+        "region": "Antofagasta",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "105",
+        "nombre": "Andrea",
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "104",
+        "nombre": "Ana Silva",
+        "comuna": "Antofagasta",
+        "region": "Desconocida",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "107",
+        "nombre": null,
+        "comuna": null,
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "103",
+        "nombre": null,
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "107",
+        "nombre": "Pedro Soto",
+        "comuna": "Antofagasta",
+        "region": "Valparaiso",
+        "segmento": null
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Antofagasta",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "111",
+        "nombre": "Andrea",
+        "comuna": null,
+        "region": "Desconocida",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "113",
+        "nombre": "Felipe",
+        "comuna": "Concepcion",
+        "region": "Metropolitana",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "104",
+        "nombre": "Marta Diaz",
+        "comuna": "Santiago",
+        "region": "Antofagasta",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "101",
+        "nombre": "Marta Diaz",
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "110",
+        "nombre": "Pedro Soto",
+        "comuna": "Providencia",
+        "region": "Metropolitana",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Ana Silva",
+        "comuna": "Desconocida",
+        "region": "Biobio",
+        "segmento": null
+    },
+    {
+        "cliente_id": "109",
+        "nombre": "Valentina Rojas",
+        "comuna": "Antofagasta",
+        "region": "Antofagasta",
+        "segmento": null
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Marta Diaz",
+        "comuna": "Santiago",
+        "region": "Biobio",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "119",
+        "nombre": null,
+        "comuna": "Concepcion",
+        "region": "Valparaiso",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "109",
+        "nombre": "Felipe",
+        "comuna": null,
+        "region": "Metropolitana",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "102",
+        "nombre": "Carlos",
+        "comuna": "Santiago",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Providencia",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Carlos",
+        "comuna": "Desconocida",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "117",
+        "nombre": null,
+        "comuna": "Providencia",
+        "region": null,
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "119",
+        "nombre": "Marta Diaz",
+        "comuna": "Antofagasta",
+        "region": null,
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "101",
+        "nombre": "Marta Diaz",
+        "comuna": "Providencia",
+        "region": null,
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "120",
+        "nombre": "Andrea",
+        "comuna": "Desconocida",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "114",
+        "nombre": "Tomas Ramirez",
+        "comuna": null,
+        "region": null,
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "103",
+        "nombre": "Sofia Castro",
+        "comuna": "Antofagasta",
+        "region": "Antofagasta",
+        "segmento": "Frecuente"
+    },
+    {
+        "cliente_id": "112",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Biobio",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "111",
+        "nombre": null,
+        "comuna": null,
+        "region": "Antofagasta",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "102",
+        "nombre": "Marta Diaz",
+        "comuna": "Providencia",
+        "region": "Valparaiso",
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "116",
+        "nombre": "Carlos",
+        "comuna": "Desconocida",
+        "region": "Biobio",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "109",
+        "nombre": "Felipe",
+        "comuna": null,
+        "region": "Metropolitana",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Andrea",
+        "comuna": null,
+        "region": null,
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "110",
+        "nombre": "Tomas Ramirez",
+        "comuna": "Santiago",
+        "region": null,
+        "segmento": "Normal"
+    },
+    {
+        "cliente_id": "114",
+        "nombre": "Pedro Soto",
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "115",
+        "nombre": "Sofia Castro",
+        "comuna": "Concepcion",
+        "region": "Antofagasta",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "119",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "119",
+        "nombre": "Valentina Rojas",
+        "comuna": null,
+        "region": "Antofagasta",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "100",
+        "nombre": "Sofia Castro",
+        "comuna": "Providencia",
+        "region": "Biobio",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "114",
+        "nombre": "Ana Silva",
+        "comuna": "Santiago",
+        "region": "Desconocida",
+        "segmento": "Nuevo"
+    },
+    {
+        "cliente_id": "110",
+        "nombre": "Pedro Soto",
+        "comuna": "Desconocida",
+        "region": "Antofagasta",
+        "segmento": "VIP"
+    },
+    {
+        "cliente_id": "117",
+        "nombre": "Felipe",
+        "comuna": "Concepcion",
+        "region": "Antofagasta",
+        "segmento": null
+    },
+    {
+        "cliente_id": "118",
+        "nombre": "Juan Perez",
+        "comuna": null,
+        "region": "Metropolitana",
+        "segmento": "N/A"
+    },
+    {
+        "cliente_id": "111",
+        "nombre": "Ana Silva",
+        "comuna": "Antofagasta",
+        "region": "Metropolitana",
+        "segmento": "VIP"
     }
 ]

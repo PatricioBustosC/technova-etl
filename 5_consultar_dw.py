@@ -9,27 +9,28 @@ warnings.filterwarnings('ignore', category=UserWarning)
 load_dotenv()
 SERVER = os.getenv('DB_SERVER')
 DRIVER = os.getenv('DB_DRIVER')
-conn_dw_str = f'DRIVER={DRIVER};SERVER={SERVER};DATABASE=technova_dw;Trusted_connection=yes;'
+conn_dw_str = f'DRIVER={DRIVER};SERVER={SERVER};DATABASE=DataRetail360_DW;Trusted_connection=yes;'
 
-print("\nConsultando technova_dw...\n")
+print("\nConsultando DataRetail360_DW...\n")
 
-query_clientes = "SELECT rut, nombre_cliente, email, segmento FROM dim_cliente;"
+query_clientes = "SELECT cliente_id, nombre, comuna, region, segmento FROM dim_cliente;"
 
 query_ventas = """
 SELECT 
-    f.id_venta,
-    f.rut,
-    p.nombre_producto,
-    t.nombre_tienda,
-    cv.nombre_canal,
+    f.venta_id,
+    f.num_boleta,
+    c.nombre AS nombre_cliente,
+    p.producto,
+    s.sucursal,
+    cn.canal,
     f.cantidad,
-    f.monto_total,
-    f.estado_venta
+    f.monto_neto
 FROM fact_ventas f
-JOIN dim_producto p ON f.sku = p.sku
-JOIN dim_tienda t ON f.id_tienda = t.id_tienda
-JOIN dim_canal_venta cv ON f.id_canal = cv.id_canal
-ORDER BY f.id_venta;
+JOIN dim_cliente c ON f.cliente_key = c.cliente_key
+JOIN dim_producto p ON f.producto_key = p.producto_key
+JOIN dim_sucursal s ON f.sucursal_key = s.sucursal_key
+JOIN dim_canal cn ON f.canal_key = cn.canal_key
+ORDER BY f.venta_id;
 """
 
 try:
